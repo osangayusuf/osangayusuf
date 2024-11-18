@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oringo02
+# 👋 Hi, I’m Osanga Yusuf
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any python project.
