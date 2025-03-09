@@ -28,6 +28,7 @@ Committed to turning ideas into reality and delivering high quality products.
 <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Livewire.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Azure.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Solidity.svg" alt="Solidity" width="40" height="40"/> </a>
 
 </div>
 
