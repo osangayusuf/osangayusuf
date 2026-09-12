@@ -24,11 +24,11 @@ I'm a Full Stack Engineer and CTO based in **Abuja, Nigeria**, running **Reach I
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
 | **[Tushe](https://tushe.africa)** | Farm-to-market marketplace + climate-smart advisory platform, with an offline-capable PWA for extension agents | Laravel 13, Vue 3, Inertia.js, PostgreSQL, Dexie.js |
-| **NRS e-Invoicing** | System Integrator platform for Nigeria's e-invoicing mandate, with wallet-based billing | Express 5, TypeScript, PostgreSQL, Drizzle ORM, React 19 |
-| **Lyte Shipping** | Internal operations platform — CRM, warehouse, shipment tracking, and finance for a logistics company | Express 5, TypeScript, Drizzle ORM, PostgreSQL |
 | **[CarryGo](https://ngcarrygo.com)** | Live auction platform with USSD-based subscription and points-based bidding | Laravel, MySQL/MariaDB |
 | **[Bidora](https://bidora.com.ng)** | Auction platform with Paystack payments and real-time bidding | Laravel, MariaDB, Reverb (WebSockets) |
-| **Fanscornernow** | API and content platform (mhealthapi backend + Next.js frontend) | Node.js, Next.js, Docker, Apache |
+| **[Fanscorner](https://fanscornernow.com)** | API and content platform (PHP backend + Next.js frontend) | Node.js, Next.js, Docker, Apache |
+| **NRS e-Invoicing** | System Integrator platform for Nigeria's e-invoicing mandate, with wallet-based billing | Express 5, TypeScript, PostgreSQL, Drizzle ORM, React 19 |
+| **Lyte Shipping** | Internal operations platform — CRM, warehouse, shipment tracking, and finance for a logistics company | Express 5, TypeScript, Drizzle ORM, PostgreSQL |
 
 ---
 
